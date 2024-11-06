@@ -1,0 +1,9 @@
+repositories {
+	maven {
+		url "https://phonepe.mycloudrepo.io/public/repositories/phonepe-pg-sdk-java"
+	}
+}
+
+dependencies {
+	implementation 'com.phonepe:pg-sdk-java:1.1.0'
+}
